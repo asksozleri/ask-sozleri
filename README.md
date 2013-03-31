@@ -1,0 +1,4 @@
+ask-sozleri
+===========
+
+aşka sözler
